@@ -9,5 +9,5 @@ the idea based on using only one function to build any shape is:
 
 	we can also use the same function with large number of sides to shape a circle.
 
-![](ASSIGN_1/sample_test.jpg)
+![](sample_test.png)
 
